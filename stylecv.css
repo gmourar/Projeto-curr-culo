@@ -16,7 +16,7 @@
   }
   nav{
       display: flex;
-      align-items: center;
+      align-items: flex;
       justify-content: space-between;
       padding-top: 50px;
       padding-left: 7%;
@@ -548,9 +548,9 @@ h5{
     padding: 100px 0px;
     background-color: #191919;
 }
-.cardcert{
-    height: 550px;
-    width: 500px;
+.certificados .cardcert{
+    height: 40vh;
+    width: 20vw;
     padding: 20px 35px;
     background: #101010;
     border-radius: 20px;
